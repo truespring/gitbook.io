@@ -1,16 +1,25 @@
 # Table of contents
 
+* [나의 개발 흔적](README.md)
+
 * [사색의 공간](README.md)
 
-## 실패 포트폴리오 <a id="fail-portfolio"></a>
+* [EC2](aws/ec2/README.md)
+  * [Untitled](aws/ec2/untitled.md)
+* [S3](aws/s3.md)
+* [RDS](aws/rds.md)
 
-* [AWS](fail-portfolio/aws/README.md)
-  * [1. Project Build](fail-portfolio/aws/project-build/README.md)
-    * [빌드 속도](fail-portfolio/aws/project-build/build-speed.md)
-    * [Test Case](fail-portfolio/aws/project-build/test-case.md)
-  * [Untitled](fail-portfolio/aws/untitled.md)
+## Language
 
-## 솔직한 공간 <a id="undefined-1"></a>
+* [Java](language/java.md)
+* [Kotlin](language/kotlin.md)
+* [Python](language/python.md)
 
-* [Untitled](undefined-1/untitled.md)
+## DATABASE
 
+* [Postgresql](database/postgresql.md)
+* [MySQL](database/mysql.md)
+
+## Etc
+
+* [Untitled](etc/untitled.md)
