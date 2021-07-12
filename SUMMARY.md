@@ -4,7 +4,8 @@
 
 ## AWS
 
-* [EC2](aws/ec2.md)
+* [EC2](aws/ec2/README.md)
+  * [Untitled](aws/ec2/untitled.md)
 * [S3](aws/s3.md)
 * [RDS](aws/rds.md)
 
