@@ -1,4 +1,2 @@
-# AWS
-=======
 # kotlin-study
 
