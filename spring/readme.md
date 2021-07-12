@@ -1,4 +1,4 @@
-# AWS
+# kotlin-study
 
 ## AWS
 
