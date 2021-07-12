@@ -1,6 +1,6 @@
 # Table of contents
 
-* [나의 개발 흔적](README.md)
+* [나의 개발 흔적😄](README.md)
 
 ## AWS
 
@@ -22,5 +22,5 @@
 
 ## Etc
 
-* [Untitled](etc/untitled.md)
+* [It's me](etc/my-site.md)
 
