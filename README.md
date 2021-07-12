@@ -1,2 +1,6 @@
-# kotlin-study
+---
+description: 내가 보고 느낀 것들과 감정들을 기록
+---
+
+# 사색의 공간
 
