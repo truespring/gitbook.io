@@ -23,4 +23,3 @@
 ## Etc
 
 * [It's me](etc/my-site.md)
-
