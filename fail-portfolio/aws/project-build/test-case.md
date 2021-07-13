@@ -4,26 +4,9 @@ description: test case로 인한 build 실패
 
 # Test Case
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
+```text
+$ sudo ./gradlew clean build
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+해당 명령어를 통해 linux 환경에서 build를 시도하였으나, test case의 부재와 관련된 에러가 발생하며 build fail이 발생하였다.
 
