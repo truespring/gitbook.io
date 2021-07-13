@@ -8,9 +8,6 @@
   * [1. Project Build](fail-portfolio/aws/project-build/README.md)
     * [빌드 속도](fail-portfolio/aws/project-build/build-speed.md)
     * [Test Case](fail-portfolio/aws/project-build/test-case.md)
-  * [Untitled](fail-portfolio/aws/untitled.md)
 
 ## 솔직한 공간 <a id="trust-space"></a>
-
-* [Untitled](trust-space/untitled.md)
 
