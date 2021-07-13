@@ -1,4 +1,3 @@
----
 
 description: 개발자가 되어 지나온 흔적들을 기록
 ---
@@ -12,5 +11,4 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 ## Have you had a chance to answer the previous question?
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
 
