@@ -2,7 +2,7 @@
 
 * [나의 개발 흔적😄](README.md)
 
-## AWS
+* [사색의 공간](README.md)
 
 * [EC2](aws/ec2/README.md)
   * [Untitled](aws/ec2/untitled.md)
