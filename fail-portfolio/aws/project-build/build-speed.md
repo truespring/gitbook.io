@@ -31,3 +31,5 @@ $ vi ~/.gradle/gradle.properties
 
 이후 다시 빌드를 통하여 kotlin 프로젝트를 빌드 하였으나, 다음 문제가 발생했다.
 
+
+
