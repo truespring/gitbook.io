@@ -19,15 +19,19 @@ $ sudo ./gredlew clean build
 $ vi ~/.gradle/gradle.properties
 ```
 
-> `org.gradle.daemon=true`
->
-> `org.gradle.parallel=true`
->
-> `org.gradle.workers.max=3`
->
-> `org.gradle.configureondemand=true`
->
-> `org.gradle.jvmargs=-Xms128m -Xmx256m`
+```text
+# linux
+
+org.gradle.daemon=true
+org.gradle.parallel=true
+org.gradle.workers.max=3
+org.gradle.configureondemand=true
+org.gradle.jvmargs=-Xms128m -Xmx256m
+```
 
 이후 다시 빌드를 통하여 kotlin 프로젝트를 빌드 하였으나, 다음 문제가 발생했다.
+
+{% hint style="info" %}
+
+{% endhint %}
 
