@@ -9,5 +9,9 @@
     * [빌드 속도](fail-portfolio/aws/project-build/build-speed.md)
     * [Test Case](fail-portfolio/aws/project-build/test-case.md)
 
+* [EC2](aws/ec2.md)
+* [S3](aws/s3.md)
+* [RDS](aws/rds.md)
+
 ## 솔직한 공간 <a id="trust-space"></a>
 
