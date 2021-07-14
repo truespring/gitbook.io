@@ -4,14 +4,8 @@
 
 ## 실패 포트폴리오 <a id="fail-portfolio"></a>
 
-* [AWS](fail-portfolio/aws/README.md)
-  * [1. Project Build](fail-portfolio/aws/project-build/README.md)
-    * [빌드 속도](fail-portfolio/aws/project-build/build-speed.md)
-    * [Test Case](fail-portfolio/aws/project-build/test-case.md)
-
-* [EC2](aws/ec2.md)
-* [S3](aws/s3.md)
-* [RDS](aws/rds.md)
-
-## 솔직한 공간 <a id="trust-space"></a>
+* [AWS](fail-portfolio/aws-2/README.md)
+  * [1. Project Build](fail-portfolio/aws-2/project-build/README.md)
+    * [빌드 속도](fail-portfolio/aws-2/project-build/build-speed.md)
+    * [Test Case](fail-portfolio/aws-2/project-build/test-case.md)
 
