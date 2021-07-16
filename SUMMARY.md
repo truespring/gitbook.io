@@ -22,4 +22,7 @@
 ## Etc
 
 * [It's me](etc/my-site.md)
+* [Fail portfolio](etc/fail-portfolio/README.md)
+  * [AWS](etc/fail-portfolio/fail-aws/README.md)
+    * [1. Project Build](etc/fail-portfolio/fail-aws/1.-project-build.md)
 
