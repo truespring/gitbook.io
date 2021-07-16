@@ -1,11 +1,28 @@
 # Table of contents
 
-* [사색의 공간🤔](README.md)
+* [나의 개발 흔적😄](README.md)
 
-## 실패 포트폴리오 <a id="fail-portfolio"></a>
+## AWS
 
-* [AWS](fail-portfolio/aws-2/README.md)
-  * [1. Project Build](fail-portfolio/aws-2/project-build/README.md)
-    * [빌드 속도](fail-portfolio/aws-2/project-build/build-speed.md)
-    * [Test Case](fail-portfolio/aws-2/project-build/test-case.md)
+* [EC2](aws/ec2.md)
+* [S3](aws/s3.md)
+* [RDS](aws/rds.md)
+
+## Language
+
+* [Java](language/java.md)
+* [Kotlin](language/kotlin.md)
+* [Python](language/python.md)
+
+## DATABASE
+
+* [Postgresql](database/postgresql.md)
+* [MySQL](database/mysql.md)
+
+## Etc
+
+* [It's me](etc/my-site.md)
+* [Fail portfolio](etc/fail-portfolio/README.md)
+  * [AWS](etc/fail-portfolio/fail-aws/README.md)
+    * [1. Project Build](etc/fail-portfolio/fail-aws/1.-project-build.md)
 
