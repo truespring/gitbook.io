@@ -24,5 +24,7 @@
 * [It's me](etc/my-site.md)
 * [Fail portfolio](etc/fail-portfolio/README.md)
   * [AWS](etc/fail-portfolio/fail-aws/README.md)
-    * [1. Project Build](etc/fail-portfolio/fail-aws/1.-project-build.md)
+    * [1. Project Build](etc/fail-portfolio/fail-aws/1.-project-build/README.md)
+      * [Build](etc/fail-portfolio/fail-aws/1.-project-build/build.md)
+      * [Test Case](etc/fail-portfolio/fail-aws/1.-project-build/test-case.md)
 
