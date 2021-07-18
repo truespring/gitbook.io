@@ -41,9 +41,9 @@ description: 개발자가 되어 지나온 흔적을 기록
 프로젝트
 
 1. AllWebtoon  
-   * 업데이트 예
+   * 업데이트 예정
 2. PCria
-   * 업데이트 예
+   * 업데이트 예정
 {% endhint %}
 
 
