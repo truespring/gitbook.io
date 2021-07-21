@@ -22,7 +22,7 @@ description: 개발자 석규환입니다.
    * Java 1.8, Spring boot, JPA, KendoUI, Hana DB, Maven
    * Java 1.8, Spring batch, JPA, Maria DB, Gradle
    * 효율 계산 식 추, UI 수정
-3. 두산 중공업\(RMS Prevision Migration\)
+3. 두산 중공업\(발전소 Solution Migration\)
    * 2021.07.19 ~ 2021.08.E
    * Java 1.8, Spring boot, JPA, KendoUI, Postgresql, Maven
    * DB migration Hana DB -&gt; Postgresql
