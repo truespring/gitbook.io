@@ -4,61 +4,9 @@ description: 개발자가 되어 지나온 흔적을 기록
 
 # 나의 개발 흔적😄
 
-{% hint style="info" %}
-2020.12.16 ~
+개발자가 되어서 지금까지 많은 것들에 대해 배웠지만 시간이 지나면 잊히게 된다.
 
-회사: \(주\)팁스밸리
+일대기라는 거창한 것은 아니지만 지나간 것들을 소중하게 생각해보고 돌아볼 수 있도록 기록을 남기기로 한다.
 
-직급: 대리
-
-개발
-
-1. 사내 MES 개발\(Smart Factory Solution\) 
-   * 2020.12.28 ~ 2021.02.26
-   * Java 1.8, Spring boot, JPA, OpenUI5, Postgresql, Gradle
-   * 품목관리, 거래처관리, 사용자 관
-2. 두산 중공업\(화력 발전소 Solution 유지 및 보\)
-   * 2021.03.02 ~ 2021.07.16
-   * Java 1.8, Spring boot, JPA, KendoUI, Hana DB, Maven
-   * Java 1.8, Spring batch, JPA, Maria DB, Gradle
-   * 효율 계산식, UI 수정
-3. 두산 중공업\(풍력 발전소 Solution 유지 및 보수\)
-   * 2021.07.16 ~
-   * Java 1.8, Spring boot, JPA, KendoUI, Postgresql, Maven
-   * DB migration Hana DB -&gt; Postgresql
-{% endhint %}
-
-{% hint style="info" %}
-2020.06.09 ~ 2020.11.20
-
-학원: 코리아IT아카데미 대구점
-
-학습
-
-1. Java, HTML, Javascript, Spring framework
-2. MySQL, Oracle, Maira DB
-
-프로젝트
-
-1. AllWebtoon  
-   * 업데이트 예
-2. PCria
-   * 업데이트 예
-{% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+두꺼운 책도 얇은 종이가 여러 장 겹쳐 이루어지듯, 나의 작은 기록도 시간이 지난 뒤엔 봐줄 만한 서사가 될 것이라고 생각한다.
 
